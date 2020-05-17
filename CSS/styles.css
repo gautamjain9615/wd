@@ -53,12 +53,12 @@ p{
 .cloud1{
     position: absolute;
     top: 50px;
-    right: 280px;
+    right: 18%;
 }
 .cloud2 {
     position: absolute;
     top: 350px;
-    left: 280px;
+    left: 18%;
 }
 .castle{
     position: relative;
